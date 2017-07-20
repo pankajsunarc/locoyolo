@@ -1,0 +1,15 @@
+@media only screen  and (min-width : 319px)  and (max-width: 800px)
+{
+	#header-wrapper .row.header { display:block !important;}
+	.logo_div.col-md-2 { text-align:center; width:100%;}
+	#header-wrapper .right-side-wrapper #signin-form #header_input .slimbutton { width:95% !important}
+	#header_input > input {
+    width: 95% !important;
+}
+.container.main table tr td { display:block;
+width:100% !important;}
+.container.main > table { width:95% !important; margin:300px auto 0 !important;}
+.right-side-wrapper { float:none !important;}
+.right-side-wrapper.col-md-7 { float:none !important;}
+.tableorangeborder input { margin-top:10px !important; width:100% !important; float:left; padding-left:15px !important;}
+}

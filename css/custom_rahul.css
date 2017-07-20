@@ -1,0 +1,234 @@
+.col-sm-7.searchsec {
+    margin-top: 166px;
+}
+.is-unique-border {
+    float: left !important;
+    margin-bottom: 8px;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    margin-top: 8px;
+    width: 100% !important;
+}
+#icons {
+    overflow: visible;
+}
+
+
+.mainlist {
+    display: inline;
+    text-decoration: none;
+}
+.mainlist ul li ul {
+    display: none !important;
+}
+.mainlist li ul {
+    display: none;
+}
+.mainlist li {
+    float: left;
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none !important;
+}
+
+.mainlist li:hover ul {
+    display: block !important;
+}
+.mainlist li li {
+    background: #fff none repeat scroll 0 0;
+    position: absolute;
+    z-index: 999;
+   border: 2px solid rgb(255, 204, 102) !important;
+    float: left;
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none !important;
+}
+.mainlist li ul {
+    margin-left: -50px;
+   
+}
+.mainlist li ul {
+    left: 5% !important;
+    position: absolute;
+    width: 100%;
+}
+.mainlist .has-filter-search-btn {
+    float: left;
+}
+.mainlist .has-filter-search-btn input {
+    background: #efefef;
+	border-radius:0px;
+	width:auto!important;
+	padding:5px!important;
+	line-height:100%
+}
+.mainlist  .has-filters  .has-filter-search-btn {
+    width: 60% !important;
+}
+.mainlist span {
+    color: #585858;
+    font-size: 16px;
+	cursor:pointer
+}
+.is-event.col-sm-12 {
+    background-color: #fff;
+    border: 1px solid #ff0000;
+    border-radius: 5px;
+    color: #ff0000;
+}
+#search-page-wrapper .has-pings-and-events.row,#search-page-wrapper .has-form-for-event-search.row,#search-page-wrapper .row{
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+@media screen and (min-width:320px) and (max-width:480px)
+{
+.col-md-5.goes-on-left {
+    width: 100% !important;
+}
+.row.has-map.no-margin {
+    position: relative !important;
+    width: 100% !important;
+}
+.mainlist span {
+}
+.row.has-form-for-event-search {
+    margin-top: 80px !important;
+}
+/*.col-md-7.goes-on-right {*/
+    /*padding-left: 40px;*/
+/*}*/
+.mainlist li ul {
+    left: 0;
+    width: 90% !important;
+}
+.mainlist li li {
+    margin-left: 15%;
+    width: 90%;
+}
+
+/*.col-md-7.goes-on-right {*/
+    /*padding: 0;*/
+/*}*/
+.mainlist ul li li {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.mainlist li li {
+    margin-left: 20px !important;
+}
+.row.has-form-for-event-search {
+    padding: 0 !important;
+}
+
+.row.has-form-for-event-search {
+    padding: 0 !important;
+}
+.mainlist ul {
+    float: left !important;
+    margin: 0 !important;
+}
+.mainlist ul li {
+    float: left !important;
+    margin: 0 !important;
+    width: 80%;
+}
+
+}
+
+/* for header icons*/
+
+
+.navbar-icon {
+    background: rgb(255, 203, 101) none repeat scroll 0 0;
+    border-radius: 50%;
+    color: #000 !important;
+    height: 25px;
+    padding: 0 6px;
+    text-align: center !important;
+    vertical-align: middle;
+    width: 25px !important;
+}
+.navbar-icon button {
+    background: transparent none repeat scroll 0 0;
+    border: medium none;
+    color: #fff;
+    font-size: inherit;
+    font-weight: bold;
+}
+.navbar-icon:hover {
+    background: #ccc none repeat scroll 0 0;
+    cursor: pointer;
+}
+.navbar-icon button:hover {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: medium none;
+    border-radius: 0;
+    font-size: inherit;
+}
+
+
+
+/* for header icons*/
+
+
+/*Top search box*/
+
+
+#divResult .display_box {
+    border-bottom: 1px solid #ccc;
+    display: block;
+    float: left;
+    width: 100%;
+}
+.contentArea #divResult {
+}
+.contentArea {
+    width: 50%;
+}
+.contentArea > #divResult {
+    border: 1px solid #ccc;
+    float: left;
+    height: auto;
+    width: 100%;
+}
+.display_box > img {
+    float: left;
+    height: 30px !important;
+    width: 30px !important;
+}
+.display_box {
+}
+
+/*------------------------*/
+.input-group #divResult {
+    background: #fff none repeat scroll 0 0;
+    max-height: 300px;
+    left: 0;
+    overflow: auto;
+    position: absolute;
+    width: 100%;
+	
+
+}
+.display_box {
+    padding: 5px !important;
+	border-left: solid 1px #ccc;
+	border-right: solid 1px #ccc;
+	
+}
+#commentsdisplay tr, #commentsdisplay td div {
+    width: 100% !important;
+}
+/*Top search box*/
+
+/* Ping detail page*/
+#has-invite-friends.row .wrp {
+    max-height: 500px;
+    overflow: auto;
+}
+
+
+/* Ping detail page*/
